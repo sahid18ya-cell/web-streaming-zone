@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Streaming Zone Panama SR</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <img src="logo.png" alt="Streaming Zone Panama SR">
+    <h1>Streaming Zone Panama SR</h1>
+    <p class="sub">Celulares, gadgets y accesorios</p>
+  </header>
+
+  <section class="bio">
+    <p>📱 Celulares, gadgets y accesorios</p>
+    <p>💲 Precios claros y trato serio</p>
+    <p>💬 Escríbame sin compromiso</p>
+    <p>🚛 Envíos a todo el país</p>
+  </section>
+
+  <section class="productos">
+    <div class="card">
+      <img src="producto1.jpg">
+      <h3>Redmi 15C Negro Ocaso</h3>
+    </div>
+
+    <div class="card">
+      <img src="producto2.jpg">
+      <h3>Pods Pro 2</h3>
+    </div>
+
+    <div class="card">
+      <img src="producto3.jpg">
+      <h3>Pods 4</h3>
+    </div>
+  </section>
+
+  <section class="contacto">
+    <a href="https://wa.me/50764507162" target="_blank">
+      Escríbanos por WhatsApp
+    </a>
+  </section>
+
+  <footer>
+    <p>© Streaming Zone Panama SR</p>
+  </footer>
+
+</body>
+</html>
